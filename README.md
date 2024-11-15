@@ -11,7 +11,7 @@
         </ul>
       </td>
       <td style="border: none;">
-        <img src="coding.gif" alt="Coding" width="300" />
+        <img src="https://github.com/kawchar85/kawchar85/blob/main/coding.gif?raw=true" alt="Coding" width="300" />
       </td>
     </tr>
   </table>
